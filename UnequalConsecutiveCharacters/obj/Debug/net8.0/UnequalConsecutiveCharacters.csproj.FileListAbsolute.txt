@@ -1,0 +1,14 @@
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\bin\Debug\net8.0\UnequalConsecutiveCharacters.exe
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\bin\Debug\net8.0\UnequalConsecutiveCharacters.deps.json
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\bin\Debug\net8.0\UnequalConsecutiveCharacters.runtimeconfig.json
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\bin\Debug\net8.0\UnequalConsecutiveCharacters.dll
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\bin\Debug\net8.0\UnequalConsecutiveCharacters.pdb
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\UnequalConsecutiveCharacters.GeneratedMSBuildEditorConfig.editorconfig
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\UnequalConsecutiveCharacters.AssemblyInfoInputs.cache
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\UnequalConsecutiveCharacters.AssemblyInfo.cs
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\UnequalConsecutiveCharacters.csproj.CoreCompileInputs.cache
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\UnequalConsecutiveCharacters.dll
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\refint\UnequalConsecutiveCharacters.dll
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\UnequalConsecutiveCharacters.pdb
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\UnequalConsecutiveCharacters.genruntimeconfig.cache
+E:\REPOS\C#\EPAM\UnequalConsecutiveCharacters\obj\Debug\net8.0\ref\UnequalConsecutiveCharacters.dll
